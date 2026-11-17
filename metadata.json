@@ -1,0 +1,6 @@
+{
+  "name": "Chim Vàng Phiêu Lưu",
+  "description": "Trò chơi Flappy Bird trực tuyến với chú chim màu vàng bay qua các ống nước xanh, điều khiển mượt mà bằng chuột, chạm hoặc phím Space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
